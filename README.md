@@ -15,7 +15,7 @@ To do this we have developed and implemented a scarp analysis algorithm in MATLA
 Please see the code guide for additional detail. 
 
 
-We include all the code and datafile required to run this code with a test example. We also provode our answers for the first three transects. 
+We include the code and data files required to run a test example. We also provide our answers for the first three of the 17 transects. 
 If you want to view the sample data before using the tool, upload the contents of the "DEM" folder and the "FAULTS" folder to ArcMap.
 The shapefile has in the attributes table the characteristics useful for categorizing the faults in E-dip and W-dip and the type of trace.
 
