@@ -17,7 +17,7 @@ Please see the code guide for additional detail.
 
 We include the code and data files required to run a test example. We also provide our answers for the first three of the 17 transects. 
 If you want to view the sample data before using the tool, upload the contents of the "DEM" folder and the "FAULTS" folder to ArcMap.
-The shapefile has in the attributes table the characteristics useful for categorizing the faults in E-dip and W-dip and the type of trace.
+The shapefile has in the attributes table the characteristics useful for categorizing the faults in E-dip and W-dip and the type of trace. 
 
 Use the DEM in ArcMap to create a hillshade map.
 
