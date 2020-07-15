@@ -26,7 +26,7 @@ Let's start using the tool:
 1) In the folder "CODE", run "calculate_scarp_height_EXAMPLE.m"
 In the main script everything is already set up with the correct paths; if an error appears, proceed as follows:
 
-2) In "dem_folder=' \' " paste the path of the the folder "DEM"
+2) In "dem_folder=' \' ", use the program 7z (https://www.7-zip.org/) to unzip the files. Then paste the path of the the folder "DEM"
 3) In "base_name= '' " paste "DEM"
 4) In "dem_numbers=[] " paste "0:1"
 
